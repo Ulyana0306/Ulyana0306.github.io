@@ -22,6 +22,7 @@
 -  Более 11 лет занимаюсь рукоделием
 -  В школе занималась волейболом
 -  Мои контакты [Telegramm](https://t.me/uliiiianaaa), [email](shimanovskaya.03@mail.ru)	
+
 ### Навыки и инструменты
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="40" height="40"/>&nbsp;
