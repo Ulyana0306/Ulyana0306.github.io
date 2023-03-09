@@ -1,8 +1,8 @@
 <div id="header" align="center">
 	<h1>Шимановская Ульяна</h1>
 	<h3>Студентка инженерного факультета</h3>
-	
-<img src="https://sun9-west.userapi.com/sun9-54/s/v1/ig2/g1eY13JTE5sxw0RdWJzRRASlMvnthT_abz4jMsbZRxetoluYa6SkPcyEpUQBMTcKGYrjautSpHBQ-1ArQi_WHXuH.jpg?size=652x1343&quality=95&type=album" title="photo" width="40" height="40"/>&nbsp;
+###	
+<img src="https://sun9-west.userapi.com/sun9-54/s/v1/ig2/g1eY13JTE5sxw0RdWJzRRASlMvnthT_abz4jMsbZRxetoluYa6SkPcyEpUQBMTcKGYrjautSpHBQ-1ArQi_WHXuH.jpg?size=652x1343&quality=95&type=album" title="photo" width="40" height="50"/>&nbsp;
 
 <div id="socials" align="center">
 	<a href="https://vk.com/ulyana0306">
@@ -17,7 +17,7 @@
 -  Студентка ПолесГУ
 -  Группа 20ИТ-3
 -  Более 11 лет занимаюсь рукоделием
--  В шшколе занималась волейболом
+-  В школе занималась волейболом
 -  Мои контакты [Telegramm](https://t.me/uliiiianaaa), [email](shimanovskaya.03@mail.ru)
 
 ### Навыки и инструменты
