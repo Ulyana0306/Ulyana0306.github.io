@@ -1,6 +1,9 @@
 <div id="header" align="center">
 	<h1>Шимановская Ульяна</h1>
 	<h3>Студентка инженерного факультета</h3>
+</div>
+	
+	
 <div id="socials" align="center">
 	<a href="https://vk.com/ulyana0306">
 		<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
@@ -9,6 +12,7 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>	
+	
 ### О себе
 -  Студентка ПолесГУ
 -  Группа 20ИТ-3
