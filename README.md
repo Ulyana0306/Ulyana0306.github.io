@@ -2,8 +2,10 @@
 	<h1>Шимановская Ульяна</h1>
 	<h3>Студентка инженерного факультета</h3>
 </div>
-	
+
+<div id="photo" align="center">
 <img src="https://sun9-west.userapi.com/sun9-54/s/v1/ig2/g1eY13JTE5sxw0RdWJzRRASlMvnthT_abz4jMsbZRxetoluYa6SkPcyEpUQBMTcKGYrjautSpHBQ-1ArQi_WHXuH.jpg?size=652x1343&quality=95&type=album" title="photo" width="100" height="200"/>&nbsp;
+</div>	
 
 <div id="socials" align="center">
 	<a href="https://vk.com/ulyana0306">
