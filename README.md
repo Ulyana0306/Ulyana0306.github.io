@@ -1,7 +1,6 @@
 <div id="header" align="center">
 	<h1>Шимановская Ульяна</h1>
 	<h3>Студентка инженерного факультета</h3>
-
 <div id="socials" align="center">
 	<a href="https://vk.com/ulyana0306">
 		<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
@@ -9,17 +8,13 @@
 	<a href="https://t.me/uliiiianaaa">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
-</div>
-
-	
+</div>	
 ### О себе
 -  Студентка ПолесГУ
 -  Группа 20ИТ-3
 -  Более 11 лет занимаюсь рукоделием
 -  В школе занималась волейболом
--  Мои контакты [Telegramm](https://t.me/uliiiianaaa), [email](shimanovskaya.03@mail.ru)
-
-	
+-  Мои контакты [Telegramm](https://t.me/uliiiianaaa), [email](shimanovskaya.03@mail.ru)	
 ### Навыки и инструменты
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="40" height="40"/>&nbsp;
